@@ -14,7 +14,7 @@ namespace HelloSourceControl
             string greeting = Console.ReadLine();
             Console.WriteLine(greeting);
 
-            Console.WriteLine("Change one.")
+            Console.WriteLine("Change one.");
 
             
             Console.ReadKey();
